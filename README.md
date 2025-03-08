@@ -13,7 +13,7 @@ This project focuses on analyzing the Google Play Store dataset to gain insights
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/playstore-analysis.git
+   [https://github.com/rakeshgm10/Google-Play-Store-Apps.git]
    ```
 2. Navigate to the project folder:
    ```bash
